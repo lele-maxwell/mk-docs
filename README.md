@@ -1,6 +1,6 @@
 # My MkDocs Project
 
-This repository contains the source files for my MkDocs documentation project, using the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
+This repository contains the source files for my MkDocs documentation project, using the [Material for MkDocs](https://squidfunk.github.io/mkdocs-masterterial/) theme.
 
 ## 📚 Project Overview
 
@@ -44,7 +44,7 @@ To run the project locally and preview the documentation:
     This will generate static files in the `site/` directory.
 
 - **Deploy to GitHub Pages**:
-    The project is set up to automatically deploy via GitHub Actions when changes are pushed to the `main` branch.
+    The project is set up to automatically deploy via GitHub Actions when changes are pushed to the `master` branch.
 
     To manually deploy:
     ```bash
